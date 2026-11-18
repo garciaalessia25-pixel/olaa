@@ -1,0 +1,46 @@
+nav{
+    border-radius: 10px;
+    background-color: rgb(4, 4, 4);
+    height: 150px;
+    width: 100%;
+    margin-top: 0%;
+}
+label.logos{
+    padding: 0 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(251, 248, 248);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 300%;
+    padding:  15px 22px;
+}
+a:hover{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(25, 130, 172);
+    transform: translateY(-15px);
+    background-color: rgb(48, 49, 49);
+    box-shadow: 0px 8px rgb(138, 152, 149);
+    border-radius: 10px;
+}
+nav ul{
+    float: right;
+    margin-right: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 0 8px;
+    line-height: 80px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: red;
+}
+h2{
+    font-size:xx-large
+}
+.no {
+    border: 5px solid #fffcfc; /* Borde sólido de 1px de grosor y color negro */
+    padding: 8px; /* Espacio interno en las celdas */
+}
